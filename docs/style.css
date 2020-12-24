@@ -1,0 +1,18 @@
+body{
+    background-color: red;
+
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    box-sizing: border-box;
+}
+.color1{
+    color:black;
+    font-size: x-large;
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+    height: auto;
+  }
